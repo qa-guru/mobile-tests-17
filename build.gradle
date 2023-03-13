@@ -32,6 +32,7 @@ dependencies {
             "io.qameta.allure:allure-rest-assured:$allureVersion",
 //            "io.appium:java-client:7.0.0",
             "io.appium:java-client:8.3.0",
+            "commons-io:commons-io:2.11.0",
             "org.junit.jupiter:junit-jupiter:5.9.2",
             "org.slf4j:slf4j-simple:$slf4jVersion"
     )
